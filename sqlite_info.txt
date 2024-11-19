@@ -1,0 +1,8 @@
+Docs: https://www.sqlite.org/docs.html
+Para ejecutar se invoca sqlite3.exe
+.help para ver los comandos
+Fuente: https://sqlite.org/cli.html
+El binario sqlite3_analyzer.exe es un programa de utilidad de línea de comandos que mide y muestra cuánto y con qué eficiencia utilizan el espacio las tablas e índices individuales con un archivo de base de datos SQLite.
+El ejecutable sqlite3_rsync.exe es una herramienta diseñada para sincronizar de manera eficiente bases de datos SQLite que operan en modo WAL (Write-Ahead Logging). Su función principal es crear o actualizar una réplica de una base de datos SQLite, ya sea en la misma máquina o a través de una conexión SSH hacia un servidor remoto. 
+El binario sqldiff.exe es un programa de utilidad de línea de comandos que muestra las diferencias de contenido entre las bases de datos SQLite.
+
